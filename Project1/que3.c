@@ -12,6 +12,6 @@ main(){
 
     ta=180-(fa+sa);
 
-    printf("third angke = %.0f",ta);
+    printf("third angle = %.0f",ta);
 
 }
